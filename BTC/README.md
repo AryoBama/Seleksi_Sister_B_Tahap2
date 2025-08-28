@@ -45,3 +45,8 @@ Pastikan work directory berada di folder root bukan folder BTC
    ```bash
    curl -X GET http://127.0.0.1:5000/chain
    ```
+## Video Youtube
+Video youtube dapat diakses pada link berikut
+https://youtu.be/LbEnN3eiW4w
+
+
